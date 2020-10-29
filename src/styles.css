@@ -1,0 +1,12 @@
+.todo {
+    background-color: #cc0000;
+    color: white;
+    width: 100%;
+    text-align: center;
+    cursor: pointer;
+}
+
+.todo.completed {
+    background-color: #c76d6c;
+    text-decoration: line-through black;
+}
